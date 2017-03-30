@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\professor\.android\build-cache\fbdba0c69d20703da05364f604896247b840c60f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\professor\AndroidStudioProjects\CalculodeSalario\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5100541dab350f0e489801a7e3b10047f0dd2ce6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\professor\.android\build-cache\151dd5c25dcf69bf191c6973d407b08e8cf53508\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\professor\AndroidStudioProjects\CalculodeSalario\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_222f6f1366a492fa4ac7035de9d196488b925530\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\professor\.android\build-cache\e5d59e2e3f74053e626f2ad88e7f5a3f72811a3c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\professor\AndroidStudioProjects\CalculodeSalario\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2efda087c7c277113e5d57c74cc8fad862390c0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\professor\AndroidStudioProjects\CalculodeSalario\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\professor\AndroidStudioProjects\CalculodeSalario\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_45b383b7da05536dbf072bd3deabb4d0f4e6ac7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\professor\.android\build-cache\35619c933220d797ad0ee725cf5f641bc370b096\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\professor\AndroidStudioProjects\CalculodeSalario\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_122913d6133841c106eb0375b1155b3553d2e19d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\professor\.android\build-cache\1828a202a868656e78af6d8983b71613e357a2fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\professor\AndroidStudioProjects\CalculodeSalario\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_36dc12ef09be6d7e413c241a2ecd4f79430ea41f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\professor\.android\build-cache\53677d0a107373637898ea280f30ceb792c39f1b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\professor\AndroidStudioProjects\CalculodeSalario\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e2eb7fdf1ef504fa12f862e87f6e59db8521da5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\professor\.android\build-cache\bd3da6b934d7e3d4e51508cbfce0eaf852753558\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\professor\AndroidStudioProjects\CalculodeSalario\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6915ab6c6bcf83047e0f7f2ee8220f65bb008fd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\professor\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\professor\AndroidStudioProjects\CalculodeSalario\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_fdc107fcc48f6c08ba2ca3bf2bbdd445688572e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\professor\AndroidStudioProjects\CalculodeSalario\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8f7bd53146d0bb07023e991d84e726bf6b057c4">
+        <dex dex="C:\Users\professor\AndroidStudioProjects\CalculodeSalario\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_34901ff67f6cc68cff0cc61805694a9b59e19e3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\professor\.android\build-cache\1db615ce2acea80b66628b55e571abc3646baf53\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\professor\AndroidStudioProjects\CalculodeSalario\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae1509b7eb493b574bef437a9e9f6dd568597c52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\professor\.android\build-cache\e3ecf0294ce1036d053aaf8ce10a1cdc2011e498\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\professor\AndroidStudioProjects\CalculodeSalario\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc7d95d5484636e054ad5e652d632930f2b6a4db\classes.dex" />
+    </item>
+
+</items>
